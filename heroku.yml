@@ -1,0 +1,4 @@
+build:
+  docker:
+    web: Dockerfile.prod.client
+    server: Dockerfile.prod.server
